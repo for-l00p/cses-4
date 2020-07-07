@@ -48,6 +48,10 @@ Solutions for the [CSES](https://cses.fi/problemset/list/) problem set
 
 ## Sorting and Searching
 
+- [ ] **Distinct NUmbers**
+      [Problem](https://cses.fi/problemset/task/1621)
+      [Solution](2-sorting-and-searching/distinc_numbers.js)
+
 ## Dynamic Programming
 
 ## Graph Algorithms
