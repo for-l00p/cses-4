@@ -1,8 +1,6 @@
 # cses
 
-Solutions for the CSES problem set
-
-# Problems
+Solutions for the [CSES](https://cses.fi/problemset/list/) problem set
 
 ## Introductory Problems
 
